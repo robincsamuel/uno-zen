@@ -10,7 +10,6 @@
 <a target="blank" href="http://www.bradenericson.com"><img src="http://i.imgur.com/8wz0LKN.png" /></a>
 <a target="blank" href="https://robinz.in"><img src="http://i.imgur.com/qDAbrch.jpg" /></a>
 <a target="blank" href="http://biercoff.com"><img src="http://i.imgur.com/goS3pE3.jpg" /></a>
-<a target="blank" href="https://randy.sesser.me"><img src="http://i.imgur.com/9hacUJc.jpg" /></a>
 <a target="blank" href="http://dan.maharry.me.uk"><img src="http://i.imgur.com/gAeS9jQ.jpg" /></a>
 <a target="blank" href="http://maptime.io/milan/"><img src="http://i.imgur.com/hd9tpzq.jpg" /></a>
 <a target="blank" href="http://xlbd.me"><img src="http://i.imgur.com/wiqVB9R.jpg" /></a>
